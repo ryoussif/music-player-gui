@@ -17,7 +17,7 @@ The player is built using the **Qt Framework** and utilizes the **iTunes API** f
 
 ---
 
-## 🧩 Features
+## Features
 
 ### Search and Playback
 
@@ -57,7 +57,7 @@ The player is built using the **Qt Framework** and utilizes the **iTunes API** f
 
 ---
 
-## 🧪 Testing & Output
+## Testing & Output
 
 ### Search Testing
 - Artist name  
